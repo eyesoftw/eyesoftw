@@ -1,9 +1,10 @@
-## Programming Languages
+<!--## Programming Languages
 ![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,python,php)
 ## Frameworks and Libraries
 ![](https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express)
 ## DB and Dev Tools etc
 ![](https://skillicons.dev/icons?i=mysql,firebase,mongodb,git,github)
+-->
 <!--
 **eyesoftw/eyesoftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
